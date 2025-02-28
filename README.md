@@ -32,3 +32,6 @@ Three different classification models were explored to predict the Churn Value:
 * Suport Vector Machines
 
 The best performing model was the Logistic Regression, with an accuracy score of 90%. It also has an 81% precision, 80% recall and 81% f1-score for predicting the Churn Value.
+
+## Featured Notebooks and Deliverables
+* [DataAnalysisAndModeling](DataAnalysisAndModeling.ipynb)
