@@ -15,13 +15,13 @@ The original data comes from the [IBM Telco Customer Churn Blog](https://communi
 
 ## Exploratory Data Analysis (EDA)
 The following questions are answered in this project:
-* What is the overall count of churn value?
-* What is the percentage of male vs. female by churn value?
-* What is the churn value count by contract type?
+* What is the distribution of churn value?
+* What is the count of male vs. female by churn value?
+* What is the mean churn value count by contract type?
 * Is there a relationship between churn value and monthly charges?
 * What's the most popular payment method?
 * Do more people enroll in device protection?
-* What is the percentage of people who go paperless?
+* Do most people go paperless?
 * What are the top 5 reasons why customers churn?
 * What is the most correlated factor to churn value?
 
@@ -33,5 +33,5 @@ Three different classification models were explored to predict the Churn Value:
 
 The best performing model was the Logistic Regression, with an accuracy score of 90%. It also has an 81% precision, 80% recall and 81% f1-score for predicting the Churn Value.
 
-## Featured Notebooks and Deliverables
-* [DataAnalysisAndModeling](DataAnalysisAndModeling.ipynb)
+## Featured Notebooks
+* [Data Analysis And Modeling](DataAnalysisAndModeling.ipynb)
